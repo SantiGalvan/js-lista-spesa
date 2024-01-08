@@ -16,9 +16,10 @@ Buon lavoro a tutte e a tutti!!
 - 1 Recupero gli elementi dal DOM
 - 2 Creo una lista della spesa
 - 3 Creo la variabile per inserire la lista in pagina
-- 4 Creo il ciclo for per stampare in pagina la lista
+- 4 Creo il ciclo for
 - 5 Creo la chiusura della lista
 - 6 Stampo la lista in pagina
 - 7 Creo il ciclo while e commento il ciclo for
 - 8 Devo inizializzare la variabile i
+- 9 Incremento la variabile i
  
