@@ -8,4 +8,16 @@
 /* General */
 body {
     font-family: 'Montserrat', sans-serif;
+    background-color: darkturquoise;
+}
+
+main {
+    margin: 20px;
+}
+
+ul {
+    list-style-type: none;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: capitalize;
 }
