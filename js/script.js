@@ -5,11 +5,12 @@ Scompongo il problema
 - 1 Recupero gli elementi dal DOM
 - 2 Creo una lista della spesa
 - 3 Creo la variabile per inserire la lista in pagina
-- 4 Creo il ciclo for per stampare in pagina la lista
+- 4 Creo il ciclo for
 - 5 Creo la chiusura della lista
 - 6 Stampo la lista in pagina
 - 7 Creo il ciclo while e commento il ciclo for
 - 8 Devo inizializzare la variabile i
+- 9 Incremento la variabile i
 */
 
 // - 1 Recupero gli elementi dal DOM
@@ -23,7 +24,7 @@ console.log(userList);
 // - 3 Creo la variabile per l'apertura la lista in pagina
 let list = `<ul>`;
 
-// - 4 Creo il ciclo for per stampare in pagina la lista
+// - 4 Creo il ciclo for
 // for (let i = 0; i < userList.length; i++) {
 //     list += `<li>${userList[i]}</li>`;
 //     console.log(list);
@@ -35,6 +36,8 @@ let i = 0;
 // - 7 Creo il ciclo while e commento il ciclo for
 while (i < userList.length) {
     list += `<li>${userList[i]}</li>`;
+
+    // - 9 Incremento la variabile i
     i++;
 }
 
